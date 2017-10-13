@@ -3,11 +3,9 @@ This plugin allows you to encode two-dimensional information with color based on
 
 **This plugin is based on the work of Steiger et al.**
 
-<div style="background-color: #e6e6e6;">
-	<b>Explorative Analysis of 2D Color Maps</b>
-	Steiger, M., Bernard, J., Mittelstädt, S., Hutter, M., Keim, D., Thum, S., Kohlhammer, J.
-	<i>Proceedings of WSCG (23), 151-160, Eurographics Assciation, Vaclav Skala - Union Agency, 2015</i>
-</div>
+<b>Explorative Analysis of 2D Color Maps</b></br>
+Steiger, M., Bernard, J., Mittelstädt, S., Hutter, M., Keim, D., Thum, S., Kohlhammer, J.</br>
+<i>Proceedings of WSCG (23), 151-160, Eurographics Assciation, Vaclav Skala - Union Agency, 2015</i>
 
 A demo is available at: [http://dominikjaeckle.com/projects/color2d/]{http://dominikjaeckle.com/projects/color2d/}
 
