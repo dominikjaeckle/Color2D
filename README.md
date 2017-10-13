@@ -1,3 +1,5 @@
+![bg img](images/bg.png "header")
+
 # Color2D - 2D Colormaps Javascript Plugin
 This plugin allows you to encode two-dimensional information with color based on a 2D colormap. Examples include scatterplots of multivariate projections or the visual representation of Self-Organizing Maps.
 
@@ -29,7 +31,6 @@ Color2D.colormaps.SCHUMANN;
 Color2D.colormaps.STEIGER; 
 Color2D.colormaps.TEULING2; 
 Color2D.colormaps.ZIEGLER;
-});
 ```
 
 You may also define your own 2D colormap. All you need is a .png file and set its dimensions.
