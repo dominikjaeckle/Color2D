@@ -43,3 +43,7 @@ Per default, Color2D expects your data to be feature scaled within the range [0,
 ```javascript
 Color2D.ranges = {x: [0,1], y: [0,1]};
 ```
+
+##Example
+Following, the colormap of Bremm et al. is applied to a random 2D scatterplot. From left to right: (1) 2D colormap, (2) random scatterplot, (3) color encoded scatterplot:
+![example](images/example.png "example")
